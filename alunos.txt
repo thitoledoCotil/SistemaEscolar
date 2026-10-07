@@ -1,0 +1,14 @@
+Nome: Nickcast
+Idade: 17
+
+Nome: Matheus
+Idade: 16
+
+Nome: Didiu
+Idade: 17
+
+Nome: Possatto
+Idade: 16
+
+Nome: Thiago
+Idade 16
